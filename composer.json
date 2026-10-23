@@ -1,0 +1,6 @@
+{
+    "require": {
+        "unsplash/unsplash": "^3.2",
+        "vlucas/phpdotenv": "^5.7"
+    }
+}
