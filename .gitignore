@@ -1,0 +1,4 @@
+.env
+vendor/*
+Simple/vendor/*
+Simple/env
